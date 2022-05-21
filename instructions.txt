@@ -1,0 +1,27 @@
+CSS Box Model
+
+How you can make a tag into box
+
+block level tag
+		<div></div>
+
+1. Width
+2. Height
+3. Background Color
+
+
+Box Modal Contain
+1. Margin  (Area outside the border)
+2. Border
+3. Padding (Area between border inside and content outside) 
+
+There will 4 Sides of Box
+1. TOP
+2. RIGHT
+3. BOTTOM
+4. LEFT
+
+Always Remember   TRBL
+
+
+Right CLick --> Inpect--> Element--> Computed
